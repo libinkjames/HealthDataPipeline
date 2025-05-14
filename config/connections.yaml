@@ -1,0 +1,11 @@
+kafka:
+  broker: "localhost:9093"
+  topic: "fitbit-notifications"
+  consumer_group_id: "consumer_fitbit_notifications"
+
+postgres: 
+   dbname: ""
+   user: ""
+   password: ""
+   host: ""
+   port: "5432"
